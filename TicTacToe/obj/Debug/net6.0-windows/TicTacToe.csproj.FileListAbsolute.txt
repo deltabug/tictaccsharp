@@ -1,0 +1,17 @@
+C:\Users\tamsin.DEV\OneDrive\vstictactoe\TicTacToe\bin\Debug\net6.0-windows\TicTacToe.exe
+C:\Users\tamsin.DEV\OneDrive\vstictactoe\TicTacToe\bin\Debug\net6.0-windows\TicTacToe.deps.json
+C:\Users\tamsin.DEV\OneDrive\vstictactoe\TicTacToe\bin\Debug\net6.0-windows\TicTacToe.runtimeconfig.json
+C:\Users\tamsin.DEV\OneDrive\vstictactoe\TicTacToe\bin\Debug\net6.0-windows\TicTacToe.dll
+C:\Users\tamsin.DEV\OneDrive\vstictactoe\TicTacToe\bin\Debug\net6.0-windows\ref\TicTacToe.dll
+C:\Users\tamsin.DEV\OneDrive\vstictactoe\TicTacToe\bin\Debug\net6.0-windows\TicTacToe.pdb
+C:\Users\tamsin.DEV\OneDrive\vstictactoe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\tamsin.DEV\OneDrive\vstictactoe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.Form1.resources
+C:\Users\tamsin.DEV\OneDrive\vstictactoe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.csproj.GenerateResource.cache
+C:\Users\tamsin.DEV\OneDrive\vstictactoe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tamsin.DEV\OneDrive\vstictactoe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.AssemblyInfoInputs.cache
+C:\Users\tamsin.DEV\OneDrive\vstictactoe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.AssemblyInfo.cs
+C:\Users\tamsin.DEV\OneDrive\vstictactoe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\tamsin.DEV\OneDrive\vstictactoe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.dll
+C:\Users\tamsin.DEV\OneDrive\vstictactoe\TicTacToe\obj\Debug\net6.0-windows\ref\TicTacToe.dll
+C:\Users\tamsin.DEV\OneDrive\vstictactoe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.pdb
+C:\Users\tamsin.DEV\OneDrive\vstictactoe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.genruntimeconfig.cache
